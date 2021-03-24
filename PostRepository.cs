@@ -5,41 +5,36 @@ using System.Threading.Tasks;
 
 
 
-public class BookRepository : BaseRepository, IRepository<Book>
+public class PostRepository : BaseRepository, IRepository<Post>
 {
 
-    public BookRepository(IConfiguration configuration) : base(configuration) { }
+    public PostRepository(IConfiguration configuration) : base(configuration) { }
 
-    public async Task<IEnumerable<Book>> GetAll()
+    public async Task<IEnumerable<Post>> GetAll()
     {
         using var connection = CreateConnection();
-        IEnumerable<Book> books = await connection.QueryAsync<Book>("SELECT * FROM Books;");
-        return books;
+        IEnumerable<Post> posts = await connection.QueryAsync<Post>("SELECT * FROM Posts;");
+        return posts;
     }
 
 
     public async Task Delete(long id)
     {
         using var connection = CreateConnection();
-        await connection.ExecuteAsync("DELETE FROM Books WHERE Id = @Id;", new { Id = id });
+        await connection.ExecuteAsync("DELETE FROM Posts WHERE Id = @Id;", new { Id = id });
     }
 
-    public async Task<Book> Get(long id)
+    public async Task<Post> Get(long id)
     {
         using var connection = CreateConnection();
-        return await connection.QuerySingleAsync<Book>("SELECT * FROM Books WHERE Id = @Id;", new { Id = id });
+        return await connection.QuerySingleAsync<Post>("SELECT * FROM Posts WHERE Id = @Id;", new { Id = id });
     }
 
-    public async Task<Book> Update(Book book)
-    {
-        using var connection = CreateConnection();
-        return await connection.QuerySingleAsync<Book>("UPDATE Books SET Title = @Title, Author = @Author WHERE Id = @Id RETURNING *", book);
-    }
 
-    public async Task<Book> Insert(Book book)
+    public async Task<Post> Insert(Post post)
     {
         using var connection = CreateConnection();
-        return await connection.QuerySingleAsync<Book>("INSERT INTO Books (Title, Author) VALUES (@Title, @Author) RETURNING *;", book);
+        return await connection.QuerySingleAsync<Post>("INSERT INTO Posts (Title, Content) VALUES (@Title, @Content) RETURNING *;", post);
     }
 }
 

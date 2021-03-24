@@ -1,8 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>project_back_end_foureach</RootNamespace>
+    <UserSecretsId>093829ba-f035-4cf4-88bb-e324402f9179</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

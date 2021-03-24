@@ -2,11 +2,11 @@ CREATE TABLE Posts (
     Post_Id SERIAL PRIMARY KEY, 
     Title TEXT,
     Content TEXT,
-    FOREIGN KEY (Post_id) REFERENCES student (User_Id)
+    FOREIGN KEY (Post_id) REFERENCES Users (User_Id)
 );
 
 INSERT INTO
-    Users (Title, Content)
+    Posts (Title, Content)
 VALUES
-    ('Missing Cat', "The cat will respond to jazz music");
+    ('Missing Cat', 'The cat will respond to jazz music');
 

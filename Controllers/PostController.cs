@@ -10,18 +10,18 @@ public class PostController : ControllerBase
 {
     private readonly IRepository<Post> _postRepository;
 
-    public BookController(IRepository<Post> postRepository)
+    public PostController(IRepository<Post> postRepository)
     {
         _postRepository = postRepository;
     }
 
     [HttpGet]
-    public async Task<IEnumerable<Community>> GetAll()
+    public async Task<IEnumerable<Post>> GetAll()
     {
-        return await  _postRepository.GetAll();
+        return await _postRepository.GetAll();
     }
 
-//?
+    //?
     [HttpGet("{id}")]
     public async Task<IActionResult> Get(long id)
     {
@@ -43,23 +43,24 @@ public class PostController : ControllerBase
     {
         try
         {
-           await _postRepository.Delete(id);
-           return Ok();
+            await _postRepository.Delete(id);
+            return Ok();
         }
-        catch(Exception)
+        catch (Exception)
         {
-           return NotFound();
+            return NotFound();
         }
 
     }
 
 
     [HttpPost]
-    public async Task<IActionResult> Insert([FromBody] Post post){
+    public async Task<IActionResult> Insert([FromBody] Post post)
+    {
         try
         {
             var newPost = await _postRepository.Insert(post);
-            return Created($"/posts/{post.Id}", newPost);
+            return Created($"/Posts/{post.Id}", newPost);
         }
         catch (Exception)
         {

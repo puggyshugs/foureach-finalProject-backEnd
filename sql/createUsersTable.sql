@@ -8,5 +8,5 @@ CREATE TABLE Users (
 INSERT INTO
     Users (Name, Age, About)
 VALUES
-    ('John Smith', 32, "I like jazz music");
+    ('John Smith', 32, 'I like jazz music');
 
