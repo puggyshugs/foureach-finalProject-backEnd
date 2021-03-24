@@ -1,12 +1,13 @@
 CREATE TABLE Posts (
-    Post_Id SERIAL PRIMARY KEY, 
+    Id SERIAL PRIMARY KEY,
+    Post_id INT,
     Title TEXT,
     Content TEXT,
-    FOREIGN KEY (Post_id) REFERENCES Users (User_Id)
+    FOREIGN KEY (Post_Id) REFERENCES Users (User_Id)
 );
 
 INSERT INTO
-    Posts (Title, Content)
+    Posts (Post_Id, Title, Content)
 VALUES
-    ('Missing Cat', 'The cat will respond to jazz music');
+    (1, 'Missing Cat', 'The cat will respond to jazz music');
 
