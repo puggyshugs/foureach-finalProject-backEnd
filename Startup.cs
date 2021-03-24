@@ -11,6 +11,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using project_back_end_foureach.Hubs.Clients;
+using project_back_end_foureach.Hubs;
+using project_back_end_foureach.Models;
+
 
 namespace project_back_end_foureach
 {
@@ -26,12 +30,24 @@ namespace project_back_end_foureach
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSignalR();
             services.AddTransient<IRepository<Post>, PostRepository>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "project_back_end_foureach", Version = "v1" });
             });
+
+            services.AddCors(options =>
+            {
+             options.AddPolicy("ClientPermission", policy =>
+             {
+                policy.AllowAnyHeader()
+                .AllowAnyMethod()
+                .WithOrigins("http://localhost:3000")
+                .AllowCredentials();
+                });
+             });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +62,8 @@ namespace project_back_end_foureach
 
             app.UseHttpsRedirection();
 
+            app.UseCors("ClientPermission");
+
             app.UseRouting();
 
             app.UseAuthorization();
@@ -53,6 +71,7 @@ namespace project_back_end_foureach
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapHub<ChatHub>("/hubs/chat");
             });
         }
     }
