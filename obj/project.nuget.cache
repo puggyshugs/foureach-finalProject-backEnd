@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "38yjd5wUgWDrBXed4RoE6zJjqSOQnSLEAnM7aHhRCvi11a8UuSNl9j2laqkbXQYPyy32hCBjH7582q99Pg1H5A==",
+  "dgSpecHash": "nevXcVKIhkc1/ER3jd2qXskwMENuoBBqEPKZRnf5FPEjDutSeBO+zJx8R0lWipKbFNK8O32DmhR+rpRwlTLPhA==",
   "success": true,
-  "projectFilePath": "F:\\Dropbox\\soc\\fourEach\\project-back-end-foureach\\project-back-end-foureach.csproj",
+  "projectFilePath": "C:\\bootcampSchoolOfCode\\Projects\\Final Project\\project-back-end-foureach\\project-back-end-foureach.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Prime\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
-    "C:\\Users\\Prime\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\Prime\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Prime\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
-    "C:\\Users\\Prime\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\Prime\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\Prime\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\Prime\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
-    "C:\\Users\\Prime\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    "C:\\Users\\Silvia\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Silvia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Silvia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Silvia\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
+    "C:\\Users\\Silvia\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Silvia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Silvia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Silvia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Silvia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
   "logs": []
 }

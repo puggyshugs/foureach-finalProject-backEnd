@@ -287,26 +287,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Prime\\.nuget\\packages\\": {}
+    "C:\\Users\\Silvia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dropbox\\soc\\fourEach\\project-back-end-foureach\\project-back-end-foureach.csproj",
+      "projectUniqueName": "C:\\bootcampSchoolOfCode\\Projects\\Final Project\\project-back-end-foureach\\project-back-end-foureach.csproj",
       "projectName": "project-back-end-foureach",
-      "projectPath": "F:\\Dropbox\\soc\\fourEach\\project-back-end-foureach\\project-back-end-foureach.csproj",
-      "packagesPath": "C:\\Users\\Prime\\.nuget\\packages\\",
-      "outputPath": "F:\\Dropbox\\soc\\fourEach\\project-back-end-foureach\\obj\\",
+      "projectPath": "C:\\bootcampSchoolOfCode\\Projects\\Final Project\\project-back-end-foureach\\project-back-end-foureach.csproj",
+      "packagesPath": "C:\\Users\\Silvia\\.nuget\\packages\\",
+      "outputPath": "C:\\bootcampSchoolOfCode\\Projects\\Final Project\\project-back-end-foureach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Prime\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Silvia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
