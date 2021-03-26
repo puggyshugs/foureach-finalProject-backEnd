@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/georgecollingridge/Desktop/SOCproject_folder/Final Project/project-back-end-foureach/project-back-end-foureach.csproj": {}
+    "F:\\Dropbox\\soc\\fourEach\\project-back-end-foureach\\project-back-end-foureach.csproj": {}
   },
   "projects": {
-    "/Users/georgecollingridge/Desktop/SOCproject_folder/Final Project/project-back-end-foureach/project-back-end-foureach.csproj": {
+    "F:\\Dropbox\\soc\\fourEach\\project-back-end-foureach\\project-back-end-foureach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/georgecollingridge/Desktop/SOCproject_folder/Final Project/project-back-end-foureach/project-back-end-foureach.csproj",
+        "projectUniqueName": "F:\\Dropbox\\soc\\fourEach\\project-back-end-foureach\\project-back-end-foureach.csproj",
         "projectName": "project-back-end-foureach",
-        "projectPath": "/Users/georgecollingridge/Desktop/SOCproject_folder/Final Project/project-back-end-foureach/project-back-end-foureach.csproj",
-        "packagesPath": "/Users/georgecollingridge/.nuget/packages/",
-        "outputPath": "/Users/georgecollingridge/Desktop/SOCproject_folder/Final Project/project-back-end-foureach/obj/",
+        "projectPath": "F:\\Dropbox\\soc\\fourEach\\project-back-end-foureach\\project-back-end-foureach.csproj",
+        "packagesPath": "C:\\Users\\Prime\\.nuget\\packages\\",
+        "outputPath": "F:\\Dropbox\\soc\\fourEach\\project-back-end-foureach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/georgecollingridge/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Prime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
