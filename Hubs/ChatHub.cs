@@ -11,5 +11,10 @@ namespace project_back_end_foureach.Hubs
         {
             await Clients.All.ReceiveMessage(message);
         }
+        
+        public async Task SendTyper(ChatMessage message)
+        {
+            await Clients.All.ReceiveTyper(message);
+        }    
     }
 }
