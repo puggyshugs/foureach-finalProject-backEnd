@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/georgecollingridge/.dotnet/store/|arch|/|tfm|",
-      "/Users/georgecollingridge/.nuget/packages"
+      "C:\\Users\\Prime\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Prime\\.nuget\\packages"
     ]
   }
 }

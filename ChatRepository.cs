@@ -13,7 +13,7 @@ public class ChatRepository : BaseRepository, IRepository<ChatMessage>
     public async Task<IEnumerable<ChatMessage>> GetAll()
     {
         using var connection = CreateConnection();
-        IEnumerable<ChatMessage> chats = await connection.QueryAsync<ChatMessage>("SELECT * FROM Chats;");
+        IEnumerable<ChatMessage> chats = await connection.QueryAsync<ChatMessage>("SELECT * FROM Chats ORDER BY Id DESC LIMIT 10;");
         return chats;
     }
 
