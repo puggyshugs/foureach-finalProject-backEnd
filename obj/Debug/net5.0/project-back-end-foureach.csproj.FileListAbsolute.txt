@@ -28,65 +28,65 @@
 /Users/georgecollingridge/Desktop/SOCproject_folder/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.RazorTargetAssemblyInfo.cache
 /Users/georgecollingridge/Desktop/SOCproject_folder/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.csproj.CopyComplete
 /Users/georgecollingridge/Desktop/SOCproject_folder/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.genruntimeconfig.cache
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\appsettings.Development.json
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\appsettings.json
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.exe
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.deps.json
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.runtimeconfig.json
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.runtimeconfig.dev.json
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.dll
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\ref\project-back-end-foureach.dll
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.pdb
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\Dapper.dll
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\Microsoft.OpenApi.dll
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\Npgsql.dll
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-F:\Dropbox\soc\fourEach\project-back-end-foureach\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.csprojAssemblyReference.cache
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.GeneratedMSBuildEditorConfig.editorconfig
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.AssemblyInfoInputs.cache
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.AssemblyInfo.cs
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.csproj.CoreCompileInputs.cache
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.MvcApplicationPartsAssemblyInfo.cs
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.MvcApplicationPartsAssemblyInfo.cache
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\staticwebassets\project-back-end-foureach.StaticWebAssets.Manifest.cache
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\staticwebassets\project-back-end-foureach.StaticWebAssets.xml
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\scopedcss\bundle\project-back-end-foureach.styles.css
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.RazorTargetAssemblyInfo.cache
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.csproj.CopyComplete
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.dll
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\ref\project-back-end-foureach.dll
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.pdb
-F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.genruntimeconfig.cache
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\appsettings.Development.json
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\appsettings.json
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.exe
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.deps.json
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.runtimeconfig.json
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.runtimeconfig.dev.json
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.dll
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\ref\project-back-end-foureach.dll
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.pdb
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\Dapper.dll
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\Npgsql.dll
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.csprojAssemblyReference.cache
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.GeneratedMSBuildEditorConfig.editorconfig
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.AssemblyInfoInputs.cache
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.AssemblyInfo.cs
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.csproj.CoreCompileInputs.cache
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.MvcApplicationPartsAssemblyInfo.cs
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.MvcApplicationPartsAssemblyInfo.cache
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\staticwebassets\project-back-end-foureach.StaticWebAssets.Manifest.cache
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\staticwebassets\project-back-end-foureach.StaticWebAssets.xml
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\scopedcss\bundle\project-back-end-foureach.styles.css
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.RazorTargetAssemblyInfo.cache
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.csproj.CopyComplete
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.dll
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\ref\project-back-end-foureach.dll
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.pdb
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.genruntimeconfig.cache
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/appsettings.Development.json
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/appsettings.json
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.exe
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.deps.json
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.runtimeconfig.json
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.runtimeconfig.dev.json
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.dll
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/ref/project-back-end-foureach.dll
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.pdb
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/Dapper.dll
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/Microsoft.OpenApi.dll
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/Npgsql.dll
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+F:/Dropbox/soc/fourEach/project-back-end-foureach/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.csprojAssemblyReference.cache
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.GeneratedMSBuildEditorConfig.editorconfig
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.AssemblyInfoInputs.cache
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.AssemblyInfo.cs
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.csproj.CoreCompileInputs.cache
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.MvcApplicationPartsAssemblyInfo.cs
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.MvcApplicationPartsAssemblyInfo.cache
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/staticwebassets/project-back-end-foureach.StaticWebAssets.Manifest.cache
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/staticwebassets/project-back-end-foureach.StaticWebAssets.xml
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/scopedcss/bundle/project-back-end-foureach.styles.css
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.RazorTargetAssemblyInfo.cache
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.csproj.CopyComplete
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.dll
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/ref/project-back-end-foureach.dll
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.pdb
+F:/Dropbox/soc/fourEach/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.genruntimeconfig.cache
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/appsettings.Development.json
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/appsettings.json
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.exe
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.deps.json
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.runtimeconfig.json
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.runtimeconfig.dev.json
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.dll
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/ref/project-back-end-foureach.dll
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/project-back-end-foureach.pdb
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/Dapper.dll
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/Npgsql.dll
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.csprojAssemblyReference.cache
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.GeneratedMSBuildEditorConfig.editorconfig
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.AssemblyInfoInputs.cache
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.AssemblyInfo.cs
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.csproj.CoreCompileInputs.cache
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.MvcApplicationPartsAssemblyInfo.cs
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.MvcApplicationPartsAssemblyInfo.cache
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/staticwebassets/project-back-end-foureach.StaticWebAssets.Manifest.cache
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/staticwebassets/project-back-end-foureach.StaticWebAssets.xml
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/scopedcss/bundle/project-back-end-foureach.styles.css
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.RazorTargetAssemblyInfo.cache
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.csproj.CopyComplete
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.dll
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/ref/project-back-end-foureach.dll
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.pdb
+C:/bootcampSchoolOfCode/Projects/Final Project/project-back-end-foureach/obj/Debug/net5.0/project-back-end-foureach.genruntimeconfig.cache

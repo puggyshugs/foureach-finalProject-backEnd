@@ -32,6 +32,7 @@ namespace project_back_end_foureach
         {
             services.AddSignalR();
             services.AddTransient<IRepository<Post>, PostRepository>();
+            services.AddTransient<IRepository<ChatMessage>, ChatRepository>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -40,14 +41,14 @@ namespace project_back_end_foureach
 
             services.AddCors(options =>
             {
-             options.AddPolicy("ClientPermission", policy =>
-             {
-                policy.AllowAnyHeader()
-                .AllowAnyMethod()
-                .WithOrigins("http://localhost:3000")
-                .AllowCredentials();
+                options.AddPolicy("ClientPermission", policy =>
+                {
+                    policy.AllowAnyHeader()
+                 .AllowAnyMethod()
+                 .WithOrigins("http://localhost:3000")
+                 .AllowCredentials();
                 });
-             });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
