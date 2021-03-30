@@ -34,7 +34,7 @@ public class ChatRepository : BaseRepository, IRepository<ChatMessage>
     public async Task<ChatMessage> Insert(ChatMessage chatMessage)
     {
         using var connection = CreateConnection();
-        System.Console.WriteLine(chatMessage.User_info);
-        return await connection.QuerySingleAsync<ChatMessage>("INSERT INTO Chats (User_info, Message) VALUES (@User_info, @Message) RETURNING *;", chatMessage);
+        System.Console.WriteLine(chatMessage.Name);
+        return await connection.QuerySingleAsync<ChatMessage>("INSERT INTO Chats (Name, Message) VALUES (@Name, @Message) RETURNING *;", chatMessage);
     }
 }

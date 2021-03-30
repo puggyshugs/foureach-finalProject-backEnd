@@ -27,7 +27,7 @@ public class ChatController : ControllerBase
         try
         {
             var newChatMessage = await _chatRepository.Insert(chatMessage);
-            return Created($"/Posts/{chatMessage.User_info}", newChatMessage);
+            return Created($"/Chats/{chatMessage.Id}", newChatMessage);
         }
         catch (Exception)
         {

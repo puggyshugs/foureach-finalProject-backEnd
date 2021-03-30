@@ -15,7 +15,7 @@ namespace project_back_end_foureach.Hubs
         public async Task SendMessage(ChatMessage message)
         {
             await Clients.All.ReceiveMessage(message);
-            await _chatRepository.Insert(message);
+            // await _chatRepository.Insert(ChatMessage);
         }
 
         public async Task SendTyper(ChatMessage message)
