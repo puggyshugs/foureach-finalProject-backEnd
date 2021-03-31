@@ -13,7 +13,7 @@ public class PostRepository : BaseRepository, IRepository<Post>
     public async Task<IEnumerable<Post>> GetAll()
     {
         using var connection = CreateConnection();
-        IEnumerable<Post> posts = await connection.QueryAsync<Post>("SELECT * FROM Posts;");
+        IEnumerable<Post> posts = await connection.QueryAsync<Post>("SELECT * FROM Posts ORDER BY Id DESC LIMIT 5;");
         return posts;
     }
 
