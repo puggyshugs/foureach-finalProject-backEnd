@@ -1,7 +1,8 @@
 CREATE TABLE Posts (
     Id SERIAL PRIMARY KEY,
     Content TEXT,
-    Name TEXT
+    Name TEXT,
+    PostImage VARCHAR
 );
 
 INSERT INTO

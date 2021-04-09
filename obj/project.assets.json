@@ -287,19 +287,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/georgecollingridge/.nuget/packages/": {}
+    "C:\\Users\\Silvia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/georgecollingridge/Desktop/SOCproject_folder/Final Project/project-back-end-foureach/project-back-end-foureach.csproj",
+      "projectUniqueName": "C:\\bootcampSchoolOfCode\\Projects\\Final Project\\project-back-end-foureach\\project-back-end-foureach.csproj",
       "projectName": "project-back-end-foureach",
-      "projectPath": "/Users/georgecollingridge/Desktop/SOCproject_folder/Final Project/project-back-end-foureach/project-back-end-foureach.csproj",
-      "packagesPath": "/Users/georgecollingridge/.nuget/packages/",
-      "outputPath": "/Users/georgecollingridge/Desktop/SOCproject_folder/Final Project/project-back-end-foureach/obj/",
+      "projectPath": "C:\\bootcampSchoolOfCode\\Projects\\Final Project\\project-back-end-foureach\\project-back-end-foureach.csproj",
+      "packagesPath": "C:\\Users\\Silvia\\.nuget\\packages\\",
+      "outputPath": "C:\\bootcampSchoolOfCode\\Projects\\Final Project\\project-back-end-foureach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/georgecollingridge/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Silvia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -354,7 +354,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

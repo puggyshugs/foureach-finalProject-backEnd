@@ -34,7 +34,7 @@ public class PostRepository : BaseRepository, IRepository<Post>
     public async Task<Post> Insert(Post post)
     {
         using var connection = CreateConnection();
-        return await connection.QuerySingleAsync<Post>("INSERT INTO Posts (Content, Name) VALUES (@Content, @Name) RETURNING *;", post);
+        return await connection.QuerySingleAsync<Post>("INSERT INTO Posts (Content, Name, PostImage) VALUES (@Content, @Name, @PostImage) RETURNING *;", post);
     }
 }
 
