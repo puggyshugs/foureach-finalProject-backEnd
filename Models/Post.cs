@@ -6,5 +6,6 @@ public class Post
     public string Content { get; set; }
     
     public string Name { get; set; } //optional
+    public string PostImage { get; set;}
 }
 
