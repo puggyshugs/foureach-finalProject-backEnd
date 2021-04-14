@@ -61,8 +61,6 @@ F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-
 F:\Dropbox\soc\fourEach\project-back-end-foureach\obj\Debug\net5.0\project-back-end-foureach.genruntimeconfig.cache
 C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\appsettings.Development.json
 C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\appsettings.json
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\package-lock.json
-C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\package.json
 C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.exe
 C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.deps.json
 C:\bootcampSchoolOfCode\Projects\Final Project\project-back-end-foureach\bin\Debug\net5.0\project-back-end-foureach.runtimeconfig.json

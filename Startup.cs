@@ -45,7 +45,7 @@ namespace project_back_end_foureach
                 {
                     policy.AllowAnyHeader()
                  .AllowAnyMethod()
-                 .WithOrigins("http://localhost:3000")
+                 .WithOrigins("http://localhost:3000", "https://foureach-mue.netlify.app")
                  .AllowCredentials();
                 });
             });
